@@ -9,7 +9,7 @@
 //
 // ignore_for_file: omit_local_variable_types
 
-import 'package:fixnum_csq/fixnum.dart';
+import 'package:fixnum_csq/fixnum_csq.dart';
 import 'package:test/test.dart';
 
 void main() {

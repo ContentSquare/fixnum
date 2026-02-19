@@ -5,7 +5,7 @@
 @TestOn('vm')
 library;
 
-import 'package:fixnum_csq/fixnum.dart';
+import 'package:fixnum_csq/fixnum_csq.dart';
 import 'package:test/test.dart';
 
 void main() {

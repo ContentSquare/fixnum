@@ -4,7 +4,7 @@
 
 // ignore_for_file: prefer_const_constructors
 
-import 'package:fixnum_csq/fixnum.dart';
+import 'package:fixnum_csq/fixnum_csq.dart';
 import 'package:test/test.dart';
 
 void main() {
